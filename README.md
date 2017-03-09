@@ -1,2 +1,2 @@
 # Hello-World
-This is my first testing repository. This is reedme of master branch. 
+This is my first testing repository. This is readme of master branch. 
